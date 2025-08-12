@@ -1,18 +1,16 @@
-# Introducción
-Hola, soy aitsereal1973, un desarrollador entusiasta que ama crear soluciones innovadoras.
+# aitsereal1973
 
-# Habilidades
-- JavaScript
-- Python
-- React
-- Node.js
-- SQL
+**主题：** machine-learning
 
-# Proyectos
-- [Proyecto1](https://github.com/aitsereal1973/proyecto1): Una aplicación web para gestionar tareas.
-- [Proyecto2](https://github.com/aitsereal1973/proyecto2): Un API RESTful para un sistema de inventario.
+## 关于
+专注于 machine-learning。
 
-# Contactos
-Puedes encontrarme en:
-- [LinkedIn](https://www.linkedin.com/in/aitsereal1973)
-- [Twitter](https://twitter.com/aitsereal1973)
+## 技术
+- Python · Git · CI/CD
+- - machine-learning
+- deep-learning
+- pytorch
+- tensorflow
+
+## 链接
+- 主页：https://github.com/aitsereal1973
